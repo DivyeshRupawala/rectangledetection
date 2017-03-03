@@ -1,2 +1,1 @@
-# rectangledetection
 Rectangle Detection OpenCV
